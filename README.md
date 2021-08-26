@@ -3,6 +3,7 @@
   
 ### Link to deployed application
 
+https://redux-store-micheqn3.herokuapp.com/
 
 ### Installing locally
 
@@ -17,6 +18,21 @@
 
 ### Technologies/Languages used: 
 
+  - JavaScript
+  - MongoDB
+  - Express
+  - React 
+  - Node.js
+  - Mongoose
+  - Apollo Server Express
+  - Apollo Client
+  - GraphQL 
+  - JSON Web Token
+  - Jwt-decode
+  - React Router Dom
+  - Stripe
+  - Bcrypt
+  - Concurrently
 
 ### Screenshot of pages
 
