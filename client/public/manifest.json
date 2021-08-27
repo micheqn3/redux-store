@@ -1,6 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "theme_color": "#0f0f0e",
+  "background_color": "#4a90e2",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Redux Store ",
+  "short_name": "Redux Store",
+  "description": "An E-Commerce Platform.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,9 +22,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
